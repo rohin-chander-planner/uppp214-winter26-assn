@@ -1,0 +1,15 @@
+name: uppp214-winter26
+channels:
+  - conda-forge
+dependencies:
+  - python =3.13
+  - pysal
+  - geosnap >=0.16.0
+  - osmnx
+  - seaborn
+  - statsmodels
+  - ruff
+  - black
+  - jupyterlab
+  - jupyter-cache
+  - geodatasets
