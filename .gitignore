@@ -1,0 +1,7 @@
+.jupyter_cache
+/.quarto/
+**/*.quarto_ipynb
+.DS_Store
+cache/
+**/*.ipynb_checkpoints/
+**/*-key.ipynb
